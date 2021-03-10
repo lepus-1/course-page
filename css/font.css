@@ -1,0 +1,33 @@
+@font-face {
+    font-family:'Averin';
+    src:url(../fonts/Avenir-Heavy.otf),
+    url(../fonts/Avenir-Heavy.ttf),
+    url(../fonts/Avenir-Heavy.woff),
+    url(../fonts/Avenir\ Heavy.woff2);    
+    }
+@font-face {
+    font-family:'Averinm';
+    src:url(../fonts/Avenir-Medium.ttf),
+    url(../fonts/Avenir-Medium.woff),
+    url(../fonts/Avenir-Medium.otf),
+    url(../fonts/Avenir\ Medium.woff2);    
+    }
+@font-face {
+    font-family:'black';
+    src:url(../fonts/AvenirLTStd-Black.otf),
+    url(../fonts/AvenirLTStd-Black.ttf),
+    url(../fonts/AvenirLTStd-Black.woff),
+    url(../fonts/AvenirLTStd-Black.woff2);    
+    }
+@font-face {
+    font-family:'book';
+    src:url(../fonts/AvenirLTStd-Book.otf),
+    url(../fonts/AvenirLTStd-Book.otf),
+    url(../fonts/AvenirLTStd-Book.woff),
+    url(../fonts/AvenirLTStd-Book.woff2);    
+    }
+
+
+        
+
+
